@@ -20,13 +20,13 @@
 ## Prerequisites
 - Python 3.6 or higher
 - Internet connection
-- A valid LeakOsint API token (obtain from [LeakOsint](https://leakosintapi.com))
+- A valid LeakOsint API token (obtain from [LeakOsint]}
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ArivaTools/ARIVA-LeakOsint.git
-   cd ARIVA-LeakOsint
+   git clone https://github.com/ArivaTools/arivaosintv4.git
+   cd arivaosintv4
    ```
 2. Install dependencies:
    ```bash
@@ -36,7 +36,7 @@
 
 3. Run the tool:
    ```bash
-   python ariva_leakosint.py
+   python arivaosintv4.py
    ```
 
 ## Usage
