@@ -42,7 +42,7 @@
 ## Usage
 1. Launch the tool:
    ```bash
-   python ariva_leakosint.py
+   python arivaosintv4.py
    ```
 2. Follow the on-screen menu:
    - Select option `[1]` to start a query.
